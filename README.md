@@ -1,9 +1,8 @@
 # app-gestion-budget
 C'est une application de gestion de budget personnel
-# Page d'accueil
+## Page d'accueil
 ![page d'accueil](./assets/img/PageAccueil.PNG)
-
-<!-- # Les Ressources
+## La liste des Ressources
 ![alt text](assets\img\ListeRessources.PNG)
-# Les Dépenses
-![alt text](assets\img\ListeDépenses.PNG) -->
+## La liste des dépenses
+![alt text](assets\img\ListeDépenses.PNG)
