@@ -7,11 +7,7 @@ C'est une application de gestion de budget personnel
 ### La liste des dépenses
 ![alt text](assets/img/ListeD%C3%A9penses.PNG)
 ## Technologies
-La liste des technologies utilisées dans ce projet
-[Html]
-[Css]
-[Bootstrap]
-[Javascript]
-[PHP]
+La liste des technologies utilisées dans ce projet : **Html Css Bootstrap Javascript PHP**
+
 
 
